@@ -1,0 +1,10 @@
+.vs/
+backup/
+bin/
+obj/
+
+UpgradeLog.XML
+UpgradeLog2.XML
+_UpgradeReport_Files/
+
+*.zip
